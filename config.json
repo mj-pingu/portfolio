@@ -1,38 +1,38 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "",
+  "title": "Pingu",
+  "name": "Michael 'Pingu' Fernandez",
+  "ascii": "Pingu",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "mj-pingu",
+    "linkedin": "m-j-fernandez"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "michael.fernandez1029@gmail.com",
+  "ps1_hostname": "pingufolio",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "",
+  "resume_url": "https://drive.google.com/file/d/1vA1evENYbkth8QTMTa4q2F1fZZvFs__4/view?usp=sharing",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "",
+    "patreon": ""
   },
   "colors": {
     "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
+      "background": "#000000",
+      "foreground": "#D0D0D0",
+      "yellow": "#F8CA12",
+      "green": "#37B349",
+      "gray": "#505050",
+      "blue": "#0E5A94",
+      "red": "#EB008A"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
+      "background": "#000000",
+      "foreground": "#D0D0D0",
+      "yellow": "#F8CA12",
+      "green": "#37B349",
+      "gray": "#D0D0D0",
+      "blue": "#0E5A94",
       "red": "#BF616A"
     }
   }
